@@ -28,7 +28,7 @@ export default function Editor({ currentNote, updateNote }) {
       />
       <div className="footer">
         <p>
-          <strong>@2022 Tanuj Kalonia </strong> ~All rights reserved || Terms
+          <strong>@2022 Pemmu Devipriya </strong> ~All rights reserved || Terms
           and condition
         </p>
       </div>
